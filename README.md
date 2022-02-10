@@ -16,3 +16,6 @@ Delete the pickle files if you need to load dataset and train afresh. Run train.
 
 ### To test:
 Open test.ipynb and test the models with image files. The threshold argument of the visualise_pred() function can be adjusted too.
+
+### Note:
+The trained models are too large to upload to GitHub, but accessible under /home/gusliahs@GU.GU.SE/cog-ai-project/trained-models on MLTGPU server.
